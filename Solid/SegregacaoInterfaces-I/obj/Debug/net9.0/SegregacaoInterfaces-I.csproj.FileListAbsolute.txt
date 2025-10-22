@@ -1,0 +1,15 @@
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\bin\Debug\net9.0\SegregacaoInterfaces-I.exe
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\bin\Debug\net9.0\SegregacaoInterfaces-I.deps.json
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\bin\Debug\net9.0\SegregacaoInterfaces-I.runtimeconfig.json
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\bin\Debug\net9.0\SegregacaoInterfaces-I.dll
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\bin\Debug\net9.0\SegregacaoInterfaces-I.pdb
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.AssemblyInfoInputs.cache
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.AssemblyInfo.cs
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.csproj.CoreCompileInputs.cache
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.sourcelink.json
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.dll
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\obj\Debug\net9.0\refint\SegregacaoInterfaces-I.dll
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.pdb
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.genruntimeconfig.cache
+C:\Users\47014999869\Desktop\POO-CSHARP\POO-em-C-\Solid\SegregacaoInterfaces-I\obj\Debug\net9.0\ref\SegregacaoInterfaces-I.dll
