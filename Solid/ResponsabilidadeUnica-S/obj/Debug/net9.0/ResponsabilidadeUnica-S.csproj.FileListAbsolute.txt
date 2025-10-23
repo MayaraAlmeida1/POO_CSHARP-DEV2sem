@@ -1,0 +1,15 @@
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\bin\Debug\net9.0\ResponsabilidadeUnica-S.exe
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\bin\Debug\net9.0\ResponsabilidadeUnica-S.deps.json
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\bin\Debug\net9.0\ResponsabilidadeUnica-S.runtimeconfig.json
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\bin\Debug\net9.0\ResponsabilidadeUnica-S.dll
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\bin\Debug\net9.0\ResponsabilidadeUnica-S.pdb
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.AssemblyInfoInputs.cache
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.AssemblyInfo.cs
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.csproj.CoreCompileInputs.cache
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.sourcelink.json
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.dll
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\obj\Debug\net9.0\refint\ResponsabilidadeUnica-S.dll
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.pdb
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.genruntimeconfig.cache
+C:\Users\47014999869\Desktop\POO_CSHARP-DEV2sem\Solid\ResponsabilidadeUnica-S\obj\Debug\net9.0\ref\ResponsabilidadeUnica-S.dll
